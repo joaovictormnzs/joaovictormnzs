@@ -7,5 +7,5 @@
 
 <p><b>📚 Technologies I'm currently studying:</b></p>
 
- [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,python,java,spring,mongo,mysql,postgre)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,python,java,spring,react,tailwind,mongo,mysql,postgresql)](https://skillicons.dev)
   
