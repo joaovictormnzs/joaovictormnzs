@@ -13,11 +13,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,spring,react,tailwind,mysql,postgresql)](https://skillicons.dev)
 
----
-
-📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovictormnzs&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormnzs&layout=compact&theme=tokyonight"/>
-</p>
