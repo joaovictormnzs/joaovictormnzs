@@ -7,7 +7,7 @@
 
 <p><b>📚 Technologies I'm currently studying:</b></p>
 
- [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongo,atlas)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongo)](https://skillicons.dev)
   
 <p><b>📚 Technologies I have experience with:</b></p>
 
